@@ -8,5 +8,8 @@ Ans: map() -নতুন array তৈরি করে,প্রতিটি elem
 Ans: == -মান তুলনা করে,Type conversion করে
      === -মান ও type দুটোই তুলনা করে,Type conversion করে না
 4) What is the significance of async/await in fetching API data?
-Ans: 
+Ans: Promise সহজভাবে handle করতে সাহায্য করে, কোড দেখতে synchronous এর মতো লাগে,
 5) Explain the concept of Scope in JavaScript (Global, Function, Block).
+Ans: Global - বাইরে declare করলে সব জায়গা থেকে access করা যায়
+     Function - function এর ভিতরে declare করলে শুধু সেই function এ কাজ করে
+     Block -  {} এর ভিতরে declare করলে শুধু সেই block এ কাজ করে
